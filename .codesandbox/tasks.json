@@ -11,7 +11,7 @@
   "tasks": {
     "start": {
       "name": "Start development server",
-      "command": "rails s",
+      "command": "rails server",
       "runAtStart": true,
       "preview": {
         "port": 3000
