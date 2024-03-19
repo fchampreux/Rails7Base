@@ -1,0 +1,13 @@
+#
+default: &default
+  host: db
+  adapter: postgresql
+  pool: 5
+  timeout: 5000
+
+development:
+  <<: *default
+  username: odq
+  password: odqApp
+  database: odq_db
+
