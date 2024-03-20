@@ -42,6 +42,9 @@ gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
 
+# API publication
+gem 'rswag'
+
 ### Features
 # Authentication and Authorisations
 gem 'devise'
@@ -52,8 +55,7 @@ gem 'cancancan', '~> 3.0'
 gem "bcrypt", "~> 3.1.7"
 
 ### Frontend publication
-# Bootstrap frontend toolkit
-gem 'bootstrap', '~> 5.2'
+gem 'tailwindcss-rails'
 # Use Sass to process CSS
 gem "sassc-rails"
 # paginator for Ruby
