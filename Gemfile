@@ -57,7 +57,7 @@ gem "bcrypt", "~> 3.1.7"
 ### Frontend publication
 gem 'tailwindcss-rails'
 # Use Sass to process CSS
-gem "sassc-rails"
+# gem "sassc-rails"
 # paginator for Ruby
 gem 'pagy'
 
