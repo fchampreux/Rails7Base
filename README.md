@@ -17,7 +17,7 @@ Provides a quick setup of a Ruby on Rails 7 environment for a new project's kick
  * bootstrap or tailwind css
  * swagger API development
 
- ## Copyright (C) 2014 - 2024  Frédéric Champreux
+ ### Copyright (C) 2014 - 2024  Frédéric Champreux
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
