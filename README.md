@@ -17,6 +17,14 @@ Provides a quick setup of a Ruby on Rails 7 environment for a new project's kick
  * bootstrap or tailwind css
  * swagger API development
 
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
+
  ### Copyright (C) 2014 - 2024  Frédéric Champreux
 
 This program is free software: you can redistribute it and/or modify
